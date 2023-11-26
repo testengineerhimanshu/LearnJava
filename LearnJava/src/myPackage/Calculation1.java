@@ -16,7 +16,7 @@ public class Calculation1 {
 	}
 
 	public int divide(int a, int b) {
-		return a / b;
+		return a/b;
 	}
 
 	public static void main(String[] args) {
